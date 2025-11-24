@@ -1,8 +1,9 @@
+
 # Hi there, I'm Jefin Jobi! 👋
 
-### 🎓 MCA Student | Data Analysis Enthusiast | Full Stack Developer
+### 🎓 Master in Computer Science (DA) Student | Data Analysis Enthusiast | Full Stack Developer
 
-I am currently pursuing my **Masters in Computer Applications**, specializing in Data Analysis. I bridge the gap between complex data processing and building user-friendly web applications.
+I am currently pursuing my **Masters in Computer Science with a specialization in Data Analysis**. I bridge the gap between complex data processing and building user-friendly web applications.
 
 - 🔭 **I’m currently working on:** Advanced Data Analysis techniques and Machine Learning integration.
 - 💻 **My Projects:**
@@ -10,6 +11,30 @@ I am currently pursuing my **Masters in Computer Applications**, specializing in
   - **Hospital Management System:** A robust management platform built with **Django**.
   - **Online Store:** A full-stack e-commerce web application.
 - 👯 **I’m looking to collaborate on:** Open source Python projects and Data Science case studies.
+
+---
+
+### 🚀 What I Do
+
+* **Data Analysis & AI:** I clean, analyze, and visualize complex datasets to find trends. I also build machine learning models for predictive analysis and computer vision tasks.
+* **Full Stack Development:** I develop scalable web applications, handling everything from the database architecture to the frontend user interface.
+* **System Architecture:** I have a strong interest in how software interacts with hardware and operating systems to optimize performance.
+
+---
+
+### 💻 Featured Projects
+
+* **🤖 Face Detection Attendance System**
+    * *Description:* An automated biometric attendance solution that detects faces in real-time to mark presence.
+    * *Tech Stack:* Python, OpenCV, Computer Vision, TensorFlow.
+
+* **🏥 Hospital Management System**
+    * *Description:* A comprehensive management platform for handling patient records, doctor scheduling, and administrative tasks.
+    * *Tech Stack:* Python, Django, SQL.
+
+* **🛒 Online Store E-Commerce Web**
+    * *Description:* A fully functional e-commerce platform featuring product listings, user authentication, and a shopping cart.
+    * *Tech Stack:* PHP, HTML/CSS, JavaScript, MySQL.
 
 ---
 
