@@ -1,7 +1,7 @@
 
 # Hi there, I'm Jefin Jobi! 👋
 
-### 🎓 Master in Computer Science (DA) Student | Data Analysis Enthusiast | Full Stack Developer
+### 🎓 MSC CS (DA) Student | Data Analysis Enthusiast | Full Stack Developer
 
 I am currently pursuing my **Masters in Computer Science with a specialization in Data Analysis**. I bridge the gap between complex data processing and building user-friendly web applications.
 
@@ -80,4 +80,4 @@ I am currently pursuing my **Masters in Computer Science with a specialization i
 
 ---
 
-[Connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE/)
+[Connect on LinkedIn](https://www.linkedin.com/in/jefin08)
